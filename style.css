@@ -1,0 +1,80 @@
+h1{
+	font-size: 1.3em;
+	text-align: left;
+	font-style:italic;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+}
+
+
+a{
+/*	o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+
+  transition:.5s;*/
+	//text-decoration:none;
+}
+
+#navbar{
+	list-style-type:none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+}
+#navdiv{
+	width: 100%;
+	margin: 0;
+	content-align:center;
+}
+#navcontain{
+	display: table;
+	margin: 0;
+}
+
+#content{
+	text-align:left;
+	margin: 0 40% 0 0%;
+	padding:0px;
+	width: 60%;
+	max-width: 1200px;
+	min-width: 200px;
+}
+h2{
+	text-align:left;
+	font-size: 1em;
+	font-weight:normal;
+}
+p{
+	font-size: 1em;
+}
+h3{
+	font-style: italic;
+	font-size: 1em;
+}
+
+a:link{
+	color: blue;
+}
+a:visited{	
+	color:blue;
+}
+a:hover{
+	color:blue; //Change to whatever color
+}
+a:active{
+	color:blue;
+}
+
+#images{
+	margin: 0 auto;
+	//width: 60%;
+}
+img{
+	padding:10px;
+}
+li{
+	list-style-type:none;
+}
